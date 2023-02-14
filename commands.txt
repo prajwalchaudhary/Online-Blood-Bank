@@ -1,0 +1,3 @@
+git branch -M main
+git remote add origin https://github.com/prajwalchaudhary/Online-Blood-Bank.git
+git push -u origin main
